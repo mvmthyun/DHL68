@@ -1,13 +1,13 @@
 <br>
 <div align="center">
 <br>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=DHL68&show_icons=true&theme=vue-dark"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mvmthyun&show_icons=true&theme=vue-dark"/>
 
 ## Welcome to my page! 🌱 <br>
 I'm Donghyun, Backend developer <br>
 from Sejong Special Self-Governing City, Korea👋 <br>
  
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDHL68%2Fhit-counter-DHL68&count_bg=%2376B900&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmvmthyun%2Fhit-counter-mvmthyun&count_bg=%2376B900&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
 <a href="https://atommi.tistory.com/"><img alt="Tistory" src ="https://img.shields.io/badge/movvvv-343A40?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 <br>
 <br>
@@ -17,7 +17,7 @@ from Sejong Special Self-Governing City, Korea👋 <br>
 <div style="display:flex">
 
 <div align-items: center;>
-<img align="left" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHL68&layout=compact&theme=vue-dark"/>
+<img align="left" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvmthyun&layout=compact&theme=vue-dark"/>
 </div>
 
 <div>
@@ -40,7 +40,7 @@ from Sejong Special Self-Governing City, Korea👋 <br>
 </div>
 
 <!--
-**DHL68/DHL68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mvmthyun/mvmthyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
